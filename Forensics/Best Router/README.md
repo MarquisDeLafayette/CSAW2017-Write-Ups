@@ -25,11 +25,18 @@ grep -r login.pl /path/to/mounted/image/*
 
 Which shows you the various places where you can find a file called login.pl. In this case it so happens that you find in the same folder several files that are of interest. You see flag.txt which is empty, password.txt, and username.txt.
 
+```
 username.txt = admin
 password.txt = iforgotaboutthemathtest
+```
+
+
+![Screenshot](steps.jpg)
 
 So if you go back to the login page and input the credentials you'll find the flag. Honestly it was a pretty easy forensics challenge and shouldn't have been valued as high as it was. 
 
 ### Flag
 
 `flag{but_I_f0rgot_my_my_math_test_and_pants}`
+
+![Screenshot](flag.jpg)
