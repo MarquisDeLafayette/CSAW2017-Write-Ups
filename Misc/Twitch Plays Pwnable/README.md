@@ -6,8 +6,11 @@
 **Description:**
 
 Twitch Plays Pwnable
+
 How long does it take several thousand hackers to exploit a buffer overflow?
+
 https://twitch.tv/csawtv
+
 UPDATE 8:03 Eastern: Apparently the answer is ~10 hours to not exploit the overflow.
 
 ## Write-up
