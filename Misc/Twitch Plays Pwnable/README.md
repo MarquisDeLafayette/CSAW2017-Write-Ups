@@ -17,6 +17,9 @@ UPDATE 8:03 Eastern: Apparently the answer is ~10 hours to not exploit the overf
 
 Words cannot explain this. Somehow it was solved 4 times over the weekend. 
 
+[![Alt text](https://img.youtube.com/vi/vrWIX3wnhzM/0.jpg)](https://www.youtube.com/watch?v=vrWIX3wnhzM)
+
+
 ### Flag
 
 `flag{pra1se_h3l1x}`
