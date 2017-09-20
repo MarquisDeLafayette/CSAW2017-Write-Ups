@@ -39,7 +39,7 @@ password.txt = iforgotaboutthemathtest
 
 ![Screenshot](steps.PNG)
 
-So if you go back to the login page and input the credentials you'll find the flag. Honestly it was a pretty easy forensics challenge and shouldn't have been valued as high as it was. 
+So if you go back to the login page and input the credentials you'll find the flag. Honestly it seemed like a pretty trivial forensics challenge and probably shouldn't have been valued as high as it was. 
 
 ### Flag
 
