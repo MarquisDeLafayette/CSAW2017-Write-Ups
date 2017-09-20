@@ -17,6 +17,10 @@ NOTE: This will expand to ~16GB!
 
 So the challenge send you to a login page and using the developer tools you find pretty quickly that the website was written in perl which is the first clue/hint you'll find.
 
+![Screenshot](login.PNG)
+![Screenshot](devTool.PNG)
+
+
 So now you decompress and mount the image that you are given. 
 
 You now can search for the login.pl file with grep.
