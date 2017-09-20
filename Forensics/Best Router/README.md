@@ -31,7 +31,7 @@ password.txt = iforgotaboutthemathtest
 ```
 
 
-![Screenshot](steps.jpg)
+![Screenshot](steps.PNG)
 
 So if you go back to the login page and input the credentials you'll find the flag. Honestly it was a pretty easy forensics challenge and shouldn't have been valued as high as it was. 
 
@@ -39,4 +39,4 @@ So if you go back to the login page and input the credentials you'll find the fl
 
 `flag{but_I_f0rgot_my_my_math_test_and_pants}`
 
-![Screenshot](flag.jpg)
+![Screenshot](flag.PNG)
