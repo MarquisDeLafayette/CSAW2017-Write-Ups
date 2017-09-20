@@ -21,7 +21,9 @@ So now you decompress and mount the image that you are given.
 
 You now can search for the login.pl file with grep.
 
+```
 grep -r login.pl /path/to/mounted/image/*
+```
 
 Which shows you the various places where you can find a file called login.pl. In this case it so happens that you find in the same folder several files that are of interest. You see flag.txt which is empty, password.txt, and username.txt.
 
